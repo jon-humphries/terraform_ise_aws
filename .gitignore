@@ -1,0 +1,157 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+# Custom filters for secrets and API keys
+*.key
+*.pem
+secrets.yml
+.env
+.env.local
+.env.*.local
+config/credentials.yml.enc
+
+# Python
+*.py[cod]
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/vendor/
+Gopkg.lock
+go.sum
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*.backup
+*.tfstate.backup
+*.tfvars
+*.tfvars.json
+.terraform.lock.hcl
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+bin/
+pyenv.cfg
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+*.bak
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.sublime-workspace
+*.swp
+*.swo
+*.sln
+*.user
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.cache
+*.vbproj
+*.vbsuo
+*.njsproj
+*.sln.docstates
+project.lock.json
+project.fragment.lock.json
+*.dotsettings
+*.sw?
+.terraform.tfstate.lock.info

@@ -1,0 +1,11 @@
+hostname=ise-san
+dnsdomain=foo.com
+primarynameserver=8.8.8.8
+ntpserver=10.160.2.100
+username=iseadmin
+password=Default1A
+timezone=Etc/UTC
+ersapi=yes
+openapi=yes
+pxGrid=yes
+pxgrid_cloud=no
